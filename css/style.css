@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    position: relative;
+    height: 100vh;
+    background: linear-gradient(to right bottom, #FFA500, #b3e591);
+}
+
+.chat-container {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
